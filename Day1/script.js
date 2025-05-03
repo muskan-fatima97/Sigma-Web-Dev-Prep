@@ -1,1 +1,3 @@
-// alert ("Script gets Connected")
+function showalert(){
+    alert("Login Successfully");
+}
